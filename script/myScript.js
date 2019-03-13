@@ -2,7 +2,7 @@
 var name;
 
 <!-- Prompt the user to enter his or her name -->
-name = prompt("Welcome, " + name);
+name = prompt("Enter your first & last name: " + name);
 
 <!-- Welcome the user to the assignment using an alert. -->
   
